@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-FaceTrackerVideo.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-FaceTrackerVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceTrackerVideo/FaceTrackerVideo-FaceTrackerVideo.iml" filepath="$PROJECT_DIR$/FaceTrackerVideo/FaceTrackerVideo-FaceTrackerVideo.iml" />
+    </modules>
+  </component>
+</project>
